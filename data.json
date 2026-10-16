@@ -1,0 +1,16 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "surname": "Smith",
+    "dob": "1990-01-01",
+    "email": "john.doe@example.com",
+    "gender": "male",
+    "password": "securepassword123",
+    "age": 30,
+    "isActive": true,
+    "isMarried": false,
+    "price": 19.99,
+    "note": null,
+    "hobbies": ["reading", "traveling", "coding"]
+    
+}
