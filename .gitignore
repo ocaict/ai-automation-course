@@ -1,0 +1,6 @@
+# Ignore folders and files
+node_modules/
+videos
+
+mysecrectfile.md
+.env
